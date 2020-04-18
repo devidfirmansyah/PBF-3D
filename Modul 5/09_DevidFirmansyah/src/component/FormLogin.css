@@ -1,0 +1,66 @@
+.Title{
+    text-align: center;
+    font-size: 30pt;
+}
+
+.SubTitle{
+    text-align: center;
+    font-size: 20pt;
+}
+
+.Form1{
+    width: 350px;
+    background: white;
+    border: 2px solid black;
+    margin: 80px auto;
+    padding: 30px 20px;
+    box-shadow: 4px 3px;
+}
+
+.Form2{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.buttonLogin{
+    background: #46de4b;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+.formIsi{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.label{
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.remember{
+    margin-left: 30%;
+}
+
+.buttonCancel{
+    background: red;
+    color: white;
+    font-size: 11pt;
+    width: 70%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 15%;
+}

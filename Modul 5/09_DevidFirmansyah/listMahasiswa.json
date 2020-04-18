@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": "1741720072",
+      "nama": "Deny Pratama",
+      "alamat": "JL. Bukit Tidar, Malang",
+      "hp": "081233178999",
+      "angkatan": "2017",
+      "status": "Aktif",
+      "id": 1583533637708
+    },
+    {
+      "NIM": "1741720110",
+      "nama": "Devid Firmansyah",
+      "alamat": "JL. Taman Safari 2 Sukorejo ,Pasuruan",
+      "hp": "085746981958",
+      "angkatan": "2017",
+      "status": "Aktif",
+      "id": 1583923250619
+    }
+  ]
+}
